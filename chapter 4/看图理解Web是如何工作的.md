@@ -2,9 +2,9 @@
 
 ## web镇之旅
 
-![111](images/扫描的文稿.jpeg)
+![111](images/扫描的文稿.pdf)
 
 ## 默认页面是如何工作的？
 
-![](images/扫描的文稿 2.jpeg)
+![](images/扫描的文稿 2.pdf)
 
