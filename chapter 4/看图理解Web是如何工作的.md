@@ -2,8 +2,9 @@
 
 ## web镇之旅
 
-![111](/Users/mac/Desktop/扫描的文稿.pdf)
+![111](images/扫描的文稿.jpeg)
 
 ## 默认页面是如何工作的？
 
-![](/Users/mac/Desktop/扫描的文稿 2.pdf)
+![](images/扫描的文稿 2.jpeg)
+
